@@ -1,0 +1,13 @@
+Listening on 127.0.0.1:45797
+[2025-02-13 16:53:38] info Disposed of connection to running server.
+looking for token 7f623366-5c18-419f-b7fc-541f47b59789, got Some("7f623366-5c18-419f-b7fc-541f47b59789")
+[2025-02-13 16:53:38] info Checking /home/shashank/.vscode-server/cli/servers/Stable-dc96b837cf6bb4af9cd736aa3af08cf8279f7685/log.txt and /home/shashank/.vscode-server/cli/servers/Stable-dc96b837cf6bb4af9cd736aa3af08cf8279f7685/pid.txt for a running server...
+[2025-02-13 16:53:42] info Downloading Visual Studio Code server -> /tmp/.tmpWla74N/vscode-server-linux-arm64.tar.gz
+[2025-02-13 16:53:57] info Starting server...
+[2025-02-13 16:53:57] info Server started
+[2025-02-13 16:54:47] info Disposed of connection to running server.
+[2025-02-13 16:54:48] info Disposed of connection to running server.
+looking for token 7f623366-5c18-419f-b7fc-541f47b59789, got Some("7f623366-5c18-419f-b7fc-541f47b59789")
+[2025-02-13 16:54:48] info Checking /home/shashank/.vscode-server/cli/servers/Stable-dc96b837cf6bb4af9cd736aa3af08cf8279f7685/log.txt and /home/shashank/.vscode-server/cli/servers/Stable-dc96b837cf6bb4af9cd736aa3af08cf8279f7685/pid.txt for a running server...
+[2025-02-13 16:54:48] info Found running server (pid=20228)
+[2025-02-13 17:15:35] info Disposed of connection to running server.

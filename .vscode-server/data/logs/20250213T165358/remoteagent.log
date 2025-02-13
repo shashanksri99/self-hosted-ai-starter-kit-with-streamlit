@@ -1,0 +1,23 @@
+2025-02-13 16:53:58.517 [info] 
+
+
+
+
+2025-02-13 16:53:58.517 [info] Extension host agent started.
+2025-02-13 16:53:58.517 [info] [<unknown>][39f2b104][ExtensionHostConnection] New connection established.
+2025-02-13 16:53:58.517 [info] Started initializing default profile extensions in extensions installation folder. file:///home/shashank/.vscode-server/extensions
+2025-02-13 16:53:58.517 [info] [<unknown>][d6a9a399][ManagementConnection] New connection established.
+2025-02-13 16:53:58.863 [info] [<unknown>][39f2b104][ExtensionHostConnection] <20260> Launched Extension Host Process.
+2025-02-13 16:53:59.116 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/shashank/.vscode-server/extensions
+2025-02-13 16:54:48.528 [info] [<unknown>][567641e3][ExtensionHostConnection] New connection established.
+2025-02-13 16:54:48.531 [info] [<unknown>][f8ef477a][ManagementConnection] New connection established.
+2025-02-13 16:54:48.547 [info] [<unknown>][567641e3][ExtensionHostConnection] <20323> Launched Extension Host Process.
+2025-02-13 16:55:43.451 [info] Getting Manifest... ms-azuretools.vscode-docker
+2025-02-13 16:55:43.674 [info] Installing extension: ms-azuretools.vscode-docker
+2025-02-13 16:55:50.690 [info] Extension signature verification result for ms-azuretools.vscode-docker: Success. Duration: 5205ms.
+2025-02-13 16:55:51.103 [info] Extracted extension to file:///home/shashank/.vscode-server/extensions/ms-azuretools.vscode-docker-1.29.2: ms-azuretools.vscode-docker
+2025-02-13 16:55:51.121 [info] Renamed to /home/shashank/.vscode-server/extensions/ms-azuretools.vscode-docker-1.29.2
+2025-02-13 16:55:51.148 [info] Extracting extension completed. ms-azuretools.vscode-docker
+2025-02-13 16:55:51.168 [info] Extension installed successfully: ms-azuretools.vscode-docker
+2025-02-13 16:58:58.307 [info] New EH opened, aborting shutdown
+2025-02-13 16:59:48.742 [info] [<unknown>][39f2b104][ExtensionHostConnection] <20260> Extension Host Process exited with code: 0, signal: null.
