@@ -14,7 +14,7 @@ RUN git clone https://github.com/shashanksri99/self-hosted-ai-starter-kit-with-s
 
 WORKDIR /app/self-hosted-ai-starter-kit-with-streamlit/Streamlit/setupFiles
 
-RUN pip3 install -r requirements.txt
+RUN pip3 install -r /app/self-hosted-ai-starter-kit-with-streamlit/Streamlit/setupFiles/requirements.txt
 
 EXPOSE 8501
 
